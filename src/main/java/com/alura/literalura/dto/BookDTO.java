@@ -1,6 +1,6 @@
-package com.carlosmarchal.literalura.dto;
+package com.alura.literalura.dto;
 
-import com.carlosmarchal.literalura.model.Language;
+import com.alura.literalura.model.Language;
 
 public record BookDTO(
         Long id,

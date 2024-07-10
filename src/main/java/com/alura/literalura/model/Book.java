@@ -1,9 +1,6 @@
-package com.carlosmarchal.literalura.model;
+package com.alura.literalura.model;
 
 import jakarta.persistence.*;
-
-import java.util.List;
-import java.util.stream.Collectors;
 
 @Entity
 @Table(name = "books")

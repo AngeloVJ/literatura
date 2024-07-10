@@ -1,4 +1,4 @@
-package com.carlosmarchal.literalura.model;
+package com.alura.literalura.model;
 
 
 import jakarta.persistence.*;

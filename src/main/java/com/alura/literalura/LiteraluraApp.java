@@ -1,8 +1,8 @@
-package com.carlosmarchal.literalura;
+package com.alura.literalura;
 
-import com.carlosmarchal.literalura.app.App;
-import com.carlosmarchal.literalura.repository.AuthorRepository;
-import com.carlosmarchal.literalura.repository.BookRepository;
+import com.alura.literalura.app.App;
+import com.alura.literalura.repository.BookRepository;
+import com.alura.literalura.repository.AuthorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

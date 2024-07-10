@@ -1,14 +1,14 @@
-package com.carlosmarchal.literalura.app;
+package com.alura.literalura.app;
 
-import com.carlosmarchal.literalura.model.*;
-import com.carlosmarchal.literalura.repository.AuthorRepository;
-import com.carlosmarchal.literalura.repository.BookRepository;
-import com.carlosmarchal.literalura.service.ObjectConversor;
-import com.carlosmarchal.literalura.service.RequestAPI;
+import com.alura.literalura.model.*;
+import com.literatura.literalura.model.*;
+import com.alura.literalura.repository.AuthorRepository;
+import com.alura.literalura.repository.BookRepository;
+import com.alura.literalura.service.ObjectConversor;
+import com.alura.literalura.service.RequestAPI;
 import com.fasterxml.jackson.core.JsonProcessingException;
 
 
-import javax.swing.text.html.Option;
 import java.util.*;
 
 public class App {

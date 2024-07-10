@@ -1,4 +1,4 @@
-package com.carlosmarchal.literalura.model;
+package com.alura.literalura.model;
 
 public enum Language {
     ENGLISH("en"),

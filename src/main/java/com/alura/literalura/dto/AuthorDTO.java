@@ -1,6 +1,6 @@
-package com.carlosmarchal.literalura.dto;
+package com.alura.literalura.dto;
 
-import com.carlosmarchal.literalura.model.Book;
+import com.alura.literalura.model.Book;
 
 import java.util.List;
 

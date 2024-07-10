@@ -1,10 +1,8 @@
-package com.carlosmarchal.literalura.repository;
+package com.alura.literalura.repository;
 
-import com.carlosmarchal.literalura.model.Author;
+import com.alura.literalura.model.Author;
 
-import com.carlosmarchal.literalura.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 
 import java.util.List;
 import java.util.Optional;
